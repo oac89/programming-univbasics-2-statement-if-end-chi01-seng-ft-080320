@@ -1,4 +1,4 @@
-if FALSE
   puts "This code does not run. You will not see this in IRB"
 end
 
+if FALSE
