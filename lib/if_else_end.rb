@@ -1,5 +1,3 @@
-result = 4
-
-if result == 4
-  puts "We've done it!"
+if TRUE
+  puts "This code runs!"
 end
